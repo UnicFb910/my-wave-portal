@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/my-wave-portal/static/css/main.233cbc38.chunk.css",
-    "main.js": "/my-wave-portal/static/js/main.2d8deef3.chunk.js",
-    "main.js.map": "/my-wave-portal/static/js/main.2d8deef3.chunk.js.map",
+    "main.js": "/my-wave-portal/static/js/main.7da51f12.chunk.js",
+    "main.js.map": "/my-wave-portal/static/js/main.7da51f12.chunk.js.map",
     "runtime-main.js": "/my-wave-portal/static/js/runtime-main.bd638210.js",
     "runtime-main.js.map": "/my-wave-portal/static/js/runtime-main.bd638210.js.map",
-    "static/js/2.89a5c1db.chunk.js": "/my-wave-portal/static/js/2.89a5c1db.chunk.js",
-    "static/js/2.89a5c1db.chunk.js.map": "/my-wave-portal/static/js/2.89a5c1db.chunk.js.map",
+    "static/js/2.547d6863.chunk.js": "/my-wave-portal/static/js/2.547d6863.chunk.js",
+    "static/js/2.547d6863.chunk.js.map": "/my-wave-portal/static/js/2.547d6863.chunk.js.map",
     "index.html": "/my-wave-portal/index.html",
-    "precache-manifest.902c70e7efa02375e772f66b380c0a16.js": "/my-wave-portal/precache-manifest.902c70e7efa02375e772f66b380c0a16.js",
+    "precache-manifest.0d544d79e520042d559da587337c8dd9.js": "/my-wave-portal/precache-manifest.0d544d79e520042d559da587337c8dd9.js",
     "service-worker.js": "/my-wave-portal/service-worker.js",
     "static/css/main.233cbc38.chunk.css.map": "/my-wave-portal/static/css/main.233cbc38.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.bd638210.js",
-    "static/js/2.89a5c1db.chunk.js",
+    "static/js/2.547d6863.chunk.js",
     "static/css/main.233cbc38.chunk.css",
-    "static/js/main.2d8deef3.chunk.js"
+    "static/js/main.7da51f12.chunk.js"
   ]
 }
